@@ -1,15 +1,15 @@
 # Hi, I'm Catkommander
 ## About me
 I'm 16 and I like coding.
-I also like video games and music.
-Currently, there is not much to say about me, except that I am **not** a professional developer.
+I also like video games and music.<br>
+Currently, there is not much to say about me, except that I am **not** a professional developer.<br>
 I still make mistakes (Everyone does, right?)
 ## About my GitHub experience
-I've two Repository, which are set to private. (I think I'll make one of them public, as soon as I add a README.md)
+I've got two Repository, which are set to private. (I think I'll make one of them public, as soon as I'm finished writing the base code)<br>
 I'm new to GitHub and git in general.
 ## About my skills
-I'm leaning the programming-language Java, and my code is probably not the best.
-My next topic I want to learn are streams from java.util.stream. 
+I'm learning the programming-language Java, and my code is probably not the best.<br>
+My next topic I want to learn are streams from java.util.stream. <br>
 Another thing I want to learn next is the whole network stuff (Websockets, etc.)
 
 <!---
