@@ -1,6 +1,6 @@
 # Hi, I'm Catkommander
 ## About me
-I'm 17 and I like coding.
+I'm 18 and I like coding.
 I also like video games and music.<br>
 Currently, there is not much to say about me, except that I am **not** a professional developer.<br>
 I still make mistakes (Everyone does, right?)
