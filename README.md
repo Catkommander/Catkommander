@@ -5,7 +5,7 @@ I also like video games and music.<br>
 Currently, there is not much to say about me, except that I am **not** a professional developer.<br>
 I still make mistakes (Everyone does, right?)
 ## About my GitHub experience
-I've got some Repositories, which are set to private. (There is a slight chance of making them public)<br>
+I've got some Repositories, which are set to private.
 I'm new to GitHub and git in general.
 ## About my skills
 I'm learning the programming-language Java.<br>
