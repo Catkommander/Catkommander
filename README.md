@@ -13,11 +13,6 @@ I also started learning C++, but I'm taking it rather slow.
 ### The thing I'm most proud of?
 Definetly my very own implementation of a HTTP-Server in Java.<br>
 While it was quite a challenge to implement most of the HTTP-Protocol, I was able to expand my coding knowledge.
-## My current Project?
-A Discord Bot!<br>
-It has the feature of generating a timetable for anyone on the server.<br>
-It also uses said Server in order to make the creation of the timetable way easier.<br>
-More features are also planned! I hope I get to implement them while I'm still at school or else all the work might be redundant.
 
 <!---
 Catkommander/Catkommander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
